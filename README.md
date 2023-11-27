@@ -18,7 +18,7 @@ In this context, a blueprint would be similar to a protocol. It provides a struc
 ### House as Implementation:
 Implementation A           |  Implementation B        |  Implementation C        |  Implementation D        |
 :-------------------------:|:-------------------------:
-![imagen clean architecture](README/house_128.png)  |  ![imagen clean architecture](README/house_v2_128.png)  |  ![imagen clean architecture](README/house_v3_128.png)  |  ![imagen clean architecture](README/house_v4_128.png)
+![imagen clean architecture](README/house_128.png)  |  ![imagen clean architecture](README/house_v2_128.png)  |  ![imagen clean architecture](README/house_v3_128.png)  |  ![imagen clean architecture](README/house_v4_128.png) |
 
 
 Implementation refers to the practical realization of a set of rules or a protocol. In the field of computer science, implementation would be the actual code or the built system that adheres to the rules set by the protocol.
