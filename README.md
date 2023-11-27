@@ -17,7 +17,7 @@ In this context, a blueprint would be similar to a protocol. It provides a struc
 
 ### House as Implementation:
 | Implementation A           |  Implementation B        |  Implementation C        |  Implementation D        |
-|:-------------------------:|:-------------------------:
+|:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:|
 | ![imagen clean architecture](README/house_128.png)  |  ![imagen clean architecture](README/house_v2_128.png)  |  ![imagen clean architecture](README/house_v3_128.png)  |  ![imagen clean architecture](README/house_v4_128.png) |
 
 
