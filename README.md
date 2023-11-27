@@ -8,16 +8,15 @@ In this repository you will find examples to understand how to use clean code in
 ```
 
 ## Difference between blueprint and house
-![imagen clean architecture](README/blueprint.png)
 
 ### Blueprint as Protocol:
-![imagen clean architecture](README/house.png)
+![imagen clean architecture](README/blueprint.png =100x))
 
 A protocol in computer science is a set of rules and conventions that govern communication between devices or systems. It establishes the standards that must be followed to achieve successful interaction.
 In this context, a blueprint would be similar to a protocol. It provides a structure and a detailed guide on how communication or interaction should take place between software components or systems.
 
 ### House as Implementation:
-![imagen clean architecture](README/house.png)
+![imagen clean architecture](README/house.png =100x)
 
 Implementation refers to the practical realization of a set of rules or a protocol. In the field of computer science, implementation would be the actual code or the built system that adheres to the rules set by the protocol.
 In this analogy, the house would represent the concrete implementation of a system based on the protocol. The house is the end product, built in accordance with the detailed specifications in the protocol (or plan).
