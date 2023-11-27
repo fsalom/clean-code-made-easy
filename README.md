@@ -16,7 +16,10 @@ A protocol in computer science is a set of rules and conventions that govern com
 In this context, a blueprint would be similar to a protocol. It provides a structure and a detailed guide on how communication or interaction should take place between software components or systems.
 
 ### House as Implementation:
-![imagen clean architecture](README/house_128.png)
+Implementation A           |  Implementation B        |  Implementation C        |  Implementation D        |
+:-------------------------:|:-------------------------:
+![imagen clean architecture](README/house_128.png)  |  ![imagen clean architecture](README/house_v2_128.png)  |  ![imagen clean architecture](README/house_v3_128.png)  |  ![imagen clean architecture](README/house_v4_128.png)
+
 
 Implementation refers to the practical realization of a set of rules or a protocol. In the field of computer science, implementation would be the actual code or the built system that adheres to the rules set by the protocol.
 In this analogy, the house would represent the concrete implementation of a system based on the protocol. The house is the end product, built in accordance with the detailed specifications in the protocol (or plan).
